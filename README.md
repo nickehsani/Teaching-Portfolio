@@ -9,3 +9,4 @@
 * [Using Nested Loops to Make a Mouse Draw an Octagon](https://www.youtube.com/watch?v=9tJYcOHCnSs)
 * [Monkey Catching Banana Game, using Events in Snap](https://www.youtube.com/watch?v=doLlS_7qrlc)
 * [Drawing Shapes using variables in Snap](https://www.youtube.com/watch?v=3OdScp3Rwcc)
+* [Using Conditional Loops to Stop a Moving Ball](https://www.youtube.com/watch?v=Kkv-W6sE2OE)
