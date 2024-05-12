@@ -10,3 +10,4 @@
 * [Monkey Catching Banana Game, using Events in Snap](https://www.youtube.com/watch?v=doLlS_7qrlc)
 * [Drawing Shapes using variables in Snap](https://www.youtube.com/watch?v=3OdScp3Rwcc)
 * [Using Conditional Loops to Stop a Moving Ball](https://www.youtube.com/watch?v=Kkv-W6sE2OE)
+* [Using if-else Statements with a Target Game](https://www.youtube.com/watch?v=tqwVmMaYkWI)
