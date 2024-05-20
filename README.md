@@ -11,3 +11,4 @@
 * [Drawing Shapes using variables in Snap](https://www.youtube.com/watch?v=3OdScp3Rwcc)
 * [Using Conditional Loops to Stop a Moving Ball](https://www.youtube.com/watch?v=Kkv-W6sE2OE)
 * [Using if-else Statements with a Target Game](https://www.youtube.com/watch?v=tqwVmMaYkWI)
+* [Nested if-else Statements with Penguin at Beach](https://www.youtube.com/watch?v=z_PRLzINkac)
