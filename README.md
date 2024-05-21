@@ -12,3 +12,4 @@
 * [Using Conditional Loops to Stop a Moving Ball](https://www.youtube.com/watch?v=Kkv-W6sE2OE)
 * [Using if-else Statements with a Target Game](https://www.youtube.com/watch?v=tqwVmMaYkWI)
 * [Nested if-else Statements with Penguin at Beach](https://www.youtube.com/watch?v=z_PRLzINkac)
+* [Compound Conditionals and Treasure Hunting](https://www.youtube.com/watch?v=slX5-TDACpw)
