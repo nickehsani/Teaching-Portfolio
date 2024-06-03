@@ -13,3 +13,4 @@
 * [Using if-else Statements with a Target Game](https://www.youtube.com/watch?v=tqwVmMaYkWI)
 * [Nested if-else Statements with Penguin at Beach](https://www.youtube.com/watch?v=z_PRLzINkac)
 * [Compound Conditionals and Treasure Hunting](https://www.youtube.com/watch?v=slX5-TDACpw)
+* [Abstraction and Function Blocks: Painting](https://www.youtube.com/watch?v=forvs7JHjek)
